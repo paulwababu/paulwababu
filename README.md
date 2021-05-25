@@ -3,11 +3,11 @@
 I am Paul Wababu, front end developer at Gazeti Limited and fourth year(2021) drop out pursuing bachelor's degree in computer technology from [Meru University](https://www.must.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
-  <a href="https://github.com/paulwababu/paulodhiambo">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
+  <a href="https://github.com/paulwababu/paulwababu">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulwababu.paulwababu" alt="page views" />
   </a>
   <a href="https://github.com/paulwababu?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/paulodhiambo?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/paulwababu?color=green&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/paul-wababu-660b511a7/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">

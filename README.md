@@ -45,11 +45,3 @@ I am Paul Wababu, front end developer at Gazeti Limited and fourth year(2021) dr
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulwababu&compact=True"/>
 </a>
-
-📕📜 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!--- [How to create Django REST APIs](https://dev.to/paulodhiambo/how-to-create-django-rest-apis-150m)
-- [Getting started with Spring Boot and Docker](https://dev.to/paulodhiambo/getting-started-with-spring-boot-and-docker-32hl)
-- [How to upload files to Amazon S3 in Spring Boot](https://dev.to/paulodhiambo/how-to-upload-files-to-amazon-s3-in-spring-boot-2p40)
-- [Python Generators](https://dev.to/paulodhiambo/python-generators-36eo)-->
-<!-- BLOG-POST-LIST:END -->

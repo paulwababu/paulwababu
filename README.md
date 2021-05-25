@@ -38,10 +38,3 @@ I am Paul Wababu, front end developer at Gazeti Limited and fourth year(2021) dr
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulwababu" />
 </a>
-
-<br>
-
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulwababu&compact=True"/>
-</a>

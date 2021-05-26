@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
 
-I am Paul Wababu, front end developer at Gazeti Limited and fourth year(2021) drop out pursuing bachelor's degree in computer technology from [Meru University](https://www.must.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's degree in computer technology at [Meru University](https://www.must.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
   <a href="https://github.com/paulwababu/paulwababu">

@@ -1,5 +1,8 @@
-## Hello! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
+## Hello! <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28a63fbb-11f0-4d83-b3fd-e7121f259c73/ddz6nic-e6285cfb-e30a-420d-a84b-dfa0e0effa54.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4YTYzZmJiLTExZjAtNGQ4My1iM2ZkLWU3MTIxZjI1OWM3M1wvZGR6Nm5pYy1lNjI4NWNmYi1lMzBhLTQyMGQtYTg0Yi1kZmEwZTBlZmZhNTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1_3nrEC0cfmZjZCSEa6MtnD6NQRzDcQu-RNGdtVFqck" width="30px">
+<!-- https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28a63fbb-11f0-4d83-b3fd-e7121f259c73/ddz6nic-e6285cfb-e30a-420d-a84b-dfa0e0effa54.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4YTYzZmJiLTExZjAtNGQ4My1iM2ZkLWU3MTIxZjI1OWM3M1wvZGR6Nm5pYy1lNjI4NWNmYi1lMzBhLTQyMGQtYTg0Yi1kZmEwZTBlZmZhNTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1_3nrEC0cfmZjZCSEa6MtnD6NQRzDcQu-RNGdtVFqck 
+https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif
 
+-->
 I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's degree in computer technology at [Meru University](https://www.must.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">

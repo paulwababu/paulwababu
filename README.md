@@ -36,7 +36,7 @@ I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's 
 
 ### RECENT DEV.TO POST
 - [Build a Machine Learning API With Django Rest Framework:](https://dev.to/paulwababu/build-a-machine-learning-api-with-django-rest-framework-1fb)
-- [https://dev.to/paulwababu/build-a-web-traffic-monitor-with-django-and-ipstack-3n2g](https://dev.to/paulwababu/build-a-web-traffic-monitor-with-django-and-ipstack-3n2g)
+- [Build a web traffic monitor with Django and IPStack](https://dev.to/paulwababu/build-a-web-traffic-monitor-with-django-and-ipstack-3n2g)
 - [Deployment Web Security Checklist | Secure your Django App and Apache Server](https://dev.to/paulwababu/deployment-web-security-checklist-secure-your-django-app-and-apache-server-4iih)
 - [Automate Exam Research with Django, Nanonets and Google Search API](https://dev.to/paulwababu/automate-exam-research-with-django-nanonets-and-google-search-api-2500)
 

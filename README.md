@@ -36,10 +36,10 @@ I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's 
 
 ### Recent DEV.TO Posts
 - [Build a Machine Learning API With Django Rest Framework](https://dev.to/paulwababu/build-a-machine-learning-api-with-django-rest-framework-1fb)
-- [Build a web traffic monitor with Django and IPStack](https://dev.to/paulwababu/build-a-web-traffic-monitor-with-django-and-ipstack-3n2g)
+- [Personality Prediction Using K-Means Clustering Algorithm and Django Rest Framework (Article Written Partly By GPT3)](https://dev.to/paulwababu/personality-prediction-using-k-means-clustering-algorithm-and-django-rest-framework-article-written-partly-by-gpt3-22oe)
 - [Deployment Web Security Checklist | Secure your Django App and Apache Server](https://dev.to/paulwababu/deployment-web-security-checklist-secure-your-django-app-and-apache-server-4iih)
-- [Automate Exam Research with Django, Nanonets and Google Search API](https://dev.to/paulwababu/automate-exam-research-with-django-nanonets-and-google-search-api-2500)
-
+- [Build an E-Commerce Site with Wagtail CMS, Bootstrap & Django Framework.](https://dev.to/paulwababu/build-an-e-commerce-site-with-wagtail-cms-bootstrap-django-framework-4jdb)
+- [Build an Image Classification API Using Django Rest Framework.](https://dev.to/paulwababu/build-an-image-classification-api-using-django-rest-framework-4ned)
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=paulwababu&count_private=true&show_icons=true" />

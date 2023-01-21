@@ -42,4 +42,3 @@ I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's 
 - [Build an Image Classification API Using Django Rest Framework.](https://dev.to/paulwababu/build-an-image-classification-api-using-django-rest-framework-4ned)
 ## My GitHub Stats 📊
 [![Paul Wababu's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulwababu)](https://github.com/anuraghazra/github-readme-stats)
-[![Paul Wababu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulwababu)](https://github.com/anuraghazra/github-readme-stats)

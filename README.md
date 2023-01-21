@@ -41,6 +41,7 @@ I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's 
 - [Build an E-Commerce Site with Wagtail CMS, Bootstrap & Django Framework.](https://dev.to/paulwababu/build-an-e-commerce-site-with-wagtail-cms-bootstrap-django-framework-4jdb)
 - [Build an Image Classification API Using Django Rest Framework.](https://dev.to/paulwababu/build-an-image-classification-api-using-django-rest-framework-4ned)
 ## My GitHub Stats 📊
+[![Paul Wababu's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulwababu)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=paulwababu&count_private=true&show_icons=true" />
 </a>

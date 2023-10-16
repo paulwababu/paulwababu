@@ -3,7 +3,9 @@
 https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif
 
 -->
-I am Paul Wababu, front end developer at Gazeti Limited and pursuing bachelor's degree in computer technology at [Meru University](https://www.must.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Paul Wababu. A dynamic Full Stack Developer with over 5 years of hands-on experience in designing, developing, and deploying cutting-edge web applications. Adept at Machine Learning, Cloud Engineering, and Cybersecurity, I have a proven track record of implementing AI-driven solutions, optimizing cloud infrastructure, and ensuring robust cybersecurity measures. My passion lies in leveraging technology to solve real-world problems, and my diverse skill set positions me uniquely to tackle multifaceted challenges in the tech landscape
+
+Find out more about me & feel free to connect with me here:
 
 <p align="left">
   <a href="https://github.com/paulwababu/paulwababu">
